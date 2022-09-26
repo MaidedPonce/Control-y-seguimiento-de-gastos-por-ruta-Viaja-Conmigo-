@@ -1,9 +1,11 @@
 # Control y seguimiento de gastos por ruta “Viaja Conmigo”
 
-En los archivos *semana 2*, *semana 2*  existe el código para hacer calculos del problema prototipico
+En los archivos *semana 2*, *semana 3*  existe el código para hacer calculos del problema prototipico
 
 Alumna: Maided Guadalupe Hernández Ponce
+
 Profesor: Luis Felipe Camargo Guerrero
+
 Grupo: LAIT201O_22-2_G203
 
 ## Cómo correr el archivo
