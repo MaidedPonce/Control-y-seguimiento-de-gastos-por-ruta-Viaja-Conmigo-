@@ -10,7 +10,7 @@ Grupo: LAIT201O_22-2_G203
 
 ## Cómo correr el archivo
 
-- gcc -o nombredecomoquieresllamarelarchivo nombredelarchivo.cpp
+- g++ -o nombredecomoquieresllamarelarchivo nombredelarchivo.cpp
 - ./nombredecomoquisistellamarelarchivo
 
  ## Ejemplo
