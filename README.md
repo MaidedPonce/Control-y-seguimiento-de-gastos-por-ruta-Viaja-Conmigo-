@@ -1,6 +1,6 @@
 # Control y seguimiento de gastos por ruta “Viaja Conmigo”
 
-En los archivos *semana 4*, *semana 4*  existe el código para hacer calculos del problema prototipico
+En los archivos *semana 5*, *semana 5*  existe el código para hacer calculos del problema prototipico
 
 Alumna: Maided Guadalupe Hernández Ponce
 

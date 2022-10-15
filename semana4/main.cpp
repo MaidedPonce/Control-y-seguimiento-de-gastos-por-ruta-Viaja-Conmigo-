@@ -41,7 +41,7 @@ int main()
             tiempo_recorrido_en_minutos = tiempo_recorrido_en_horas * 60;
             cout << "Mientras que el recorrido total en minutos es de " << tiempo_recorrido_en_minutos * 30 << endl;
             cout << "-------------------------------------------------" << endl;
-            break;
+            
         case 2:
             litros_gasolina_x_ruta = lista[2] / litro_de_gasolina_x_trece;
             cout << "Se requieren " << litros_gasolina_x_ruta * 30 << " litros de gasolina " << endl;
@@ -52,7 +52,7 @@ int main()
             tiempo_recorrido_en_minutos = tiempo_recorrido_en_horas * 60;
             cout << "Mientras que el recorrido total en minutos es de " << tiempo_recorrido_en_minutos * 30 << endl;
             cout << "-------------------------------------------------" << endl;
-            break;
+            
         case 3:
             litros_gasolina_x_ruta = lista[3] / litro_de_gasolina_x_trece;
             cout << "Se requieren " << litros_gasolina_x_ruta * 30 << " litros de gasolina " << endl;
@@ -74,6 +74,6 @@ int main()
             cout << "Mientras que el recorrido total en minutos es de " << tiempo_recorrido_en_minutos * 30 << endl;
             cout << "-------------------------------------------------" << endl;
         default:
-            break;
+            
     }
 }
